@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @aswindevsp
-- 👀 I’m interested in Everything?
-- 🌱 I’m currently learning Jetpack Compose
-- 💞️ I’m looking to collaborate on Android Development
-- 📫 How to reach me @aswindevsp
+<p align="center"><strong>Welcome to my github profile.</strong></p>
+<p align="center"><img width="40" src="https://github.githubassets.com/images/mona-whisper.gif"></p>
 
-<!---
-aswindevsp/aswindevsp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![XSans's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aswindevsp&layout=compact&show_icons=true&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aswindevsp&layout=compact&show_icons=true&hide_border=false)](https://github.com/aswindevsp)
